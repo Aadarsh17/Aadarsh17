@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aadarsh17
 - 👀 I’m interested in Cloud Projects
-- 🌱 I’m pusuing M.Sc.IT
+- 🌱 I’ve completed M.Sc.IT
 - 📫 How to reach me 7020311671
 
 <!---
